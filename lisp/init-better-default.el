@@ -1,0 +1,5 @@
+(fset 'yes-or-no-p 'y-or-n-p)
+(setq make-backup-files nil)
+(show-paren-mode)
+(autopair-global-mode)
+(provide 'init-better-default)
